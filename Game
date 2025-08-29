@@ -1,0 +1,16 @@
+<p>A classic game of X's and O's.</p>
+      <a href="https://playtictactoe.org/" target="_blank" rel="noopener noreferrer">Play Now</a>
+    </li>
+    <li>
+      <h2>2048</h2>
+      <p>Merge tiles to get 2048!</p>
+      <a href="https://play2048.co/" target="_blank" rel="noopener noreferrer">Play Now</a>
+    </li>
+    <li>
+      <h2>Rock Paper Scissors</h2>
+      <p>Test your luck and strategy!</p>
+      <a href="https://www.google.com/search?q=play+rock+paper+scissors" target="_blank" rel="noopener noreferrer">Play Now</a>
+    </li>
+  </ul>
+</body>
+</html>
